@@ -20,6 +20,8 @@ public class MyFirstClass {
 
         boolean d = true;//false
 
+        ////hghjgjh
+
         char e = 'A';
 
         String f = "This is String";
