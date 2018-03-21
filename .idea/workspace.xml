@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d742ff0-dec2-4eab-b907-bafdcecad8b4" name="Default" comment="" />
+    <list default="true" id="7d742ff0-dec2-4eab-b907-bafdcecad8b4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,13 +17,13 @@
       <file leaf-file-name="MyFirstClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyFirstClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="352">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding>
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#760#761#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -256,13 +258,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MyFirstClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="352">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding>
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
           </folding>
         </state>
       </provider>
