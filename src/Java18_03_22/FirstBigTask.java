@@ -1,3 +1,5 @@
+package Java18_03_22;
+
 import java.util.Scanner;
 
 public class FirstBigTask {
